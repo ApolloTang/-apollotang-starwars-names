@@ -2,5 +2,8 @@
   "name": "wf",
   "version": "1.0.0",
   "main": "src/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
 }
