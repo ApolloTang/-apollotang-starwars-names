@@ -1,9 +1,15 @@
 {
-  "name": "wf",
+  "name": "@apollotang/starwars-names",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
     "unique-random-array": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apollo Tang",
+  "description": ""
 }
