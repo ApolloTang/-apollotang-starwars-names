@@ -11,5 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Apollo Tang",
-  "description": ""
+  "description": "learning how to build an open source library",
+  "repository": "git@github.com:ApolloTang/apollotang-starwars-names.git"
 }
