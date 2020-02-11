@@ -12,5 +12,5 @@
   },
   "author": "Apollo Tang",
   "description": "learning how to build an open source library",
-  "repository": "git@github.com:ApolloTang/apollotang-starwars-names.git"
+  "repository": "https://github.com/ApolloTang/apollotang-starwars-names.git"
 }
