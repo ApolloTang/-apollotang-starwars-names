@@ -6,9 +6,11 @@
   "dependencies": {
     "unique-random-array": "^2.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Apollo Tang",
   "description": "learning how to build an open source library",
